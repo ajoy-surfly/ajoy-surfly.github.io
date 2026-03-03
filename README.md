@@ -1,7 +1,3 @@
-Create a beautiful landing page for Surfly with Markdown
-
-Some content for the page:
-
 ## What is Surfly?
 
 Surfly is a tool that helps you provide better customer support.
